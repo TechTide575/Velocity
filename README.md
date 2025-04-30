@@ -1,5 +1,5 @@
 # Velocitybrowser
-
+byTechTide
 ## Velocityとは、
 C#で開発を進めているブラウザ
 オープンソースで公開予定
